@@ -3,7 +3,25 @@
 	"displayName": "Minifier",
 	"description": "Minify your files (HTML, CSS, JavaScript and JSON support)",
 	"publisher": "Halpe",
-	"version": "0.0.1",
+	"author": {
+		"name": "Nicolas Halperin",
+		"email": "nicohalpe05@gmail.com",
+		"url": "https://nicohalpe.com.ar"
+	},
+	"keywords": [
+		"minify",
+		"minifier",
+		"html",
+		"css",
+		"js",
+		"javascript",
+		"json"
+	],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
@@ -22,7 +40,7 @@
 		"commands": [
 			{
 				"command": "minifier.minify",
-				"title": "Minify: Document"
+				"title": "Minify"
 			}
 		],
 		"menus": {

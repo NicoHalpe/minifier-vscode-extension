@@ -4,7 +4,7 @@ Minify your files for deploy.
 
 ## How to use
 
-- `F1` + `Minify: Document`
+- `F1` + `Minify`
 
 - `Right click` on the `editor` + `Minify` in the context menu
 
