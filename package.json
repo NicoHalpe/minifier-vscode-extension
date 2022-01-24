@@ -19,7 +19,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/NicoHalpe/minifier-vscode-extension"
 	},
 	"version": "0.0.2",
 	"engines": {
